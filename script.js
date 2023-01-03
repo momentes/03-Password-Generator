@@ -57,6 +57,9 @@ function writePassword() {
   if (password){
   var promptPassword = createPassword();
   passwordText.value = promptPassword;
+  } else {
+    passwordText.value = "Please Try Again";
+  }
 }
 
 // Random Loop Password Generator
