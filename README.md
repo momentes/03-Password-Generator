@@ -24,7 +24,7 @@ This assignment is to modify starter code to create an application that enables 
 1. Project was done while limited internet connectivity was available.
 2. Thank goodness for week 6 learning on preventdefault() JS
 3. Below is an example of the website ;
-<img src="Images/Password-Generator-Web.png" width=75%>
+<img src="Images/Password-Generator-Web.png" width=65%>
 
 **Credits for References & Learning Resources:**
 1. Website Credits - W3schools
