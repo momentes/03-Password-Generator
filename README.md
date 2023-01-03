@@ -21,16 +21,20 @@ This assignment is to modify starter code to create an application that enables 
 - THEN the password is either displayed in an alert or written to the page
 
 **Creator Note:**
-1. 
+1. Project was done while limited internet connectivity was available.
+2. Thank god for week 6 learning on preventdefault() JS
+3. Below is an example of the website ;
+<img src="Images/Password-Generator-Web.png" width=15%>
 
 **Credits for References & Learning Resources:**
 1. Website Credits - W3schools
-8. Website Credits - StackOverFlow
-9. Website Credits - Markdownguide.org
+2. Website Credits - StackOverFlow
+3. Website Credits - Markdownguide.org
+4. https://dev.to/code_mystery/random-password-generator-using-javascript-6a
 
 
-This project is for Private use/learning classes and not for commerical or public consumption.Please get in contact if you wish to remove some of the refrences used.
+This project is for Private use/learning classes and not for commerical or public consumption.
 
 Thank you
 End.        
-<img src="images/business-cat1.jpg" width=15%>
+<img src="Images/business-cat1.jpg" width=15%>
