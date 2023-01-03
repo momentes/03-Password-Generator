@@ -53,7 +53,7 @@ function writePassword() {
   var password = generatePassword();
   var passwordText = document.querySelector("#password");
 
-  //Run Password Generator
+  // Run Password Generator
   if (password){
   var promptPassword = createPassword();
   passwordText.value = promptPassword;
@@ -62,7 +62,7 @@ function writePassword() {
   }
 }
 
-// Random Loop Password Generator
+// Random Password Generator
 function createPassword(){
   var password = "";
 
