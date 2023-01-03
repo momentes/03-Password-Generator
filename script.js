@@ -58,7 +58,7 @@ function writePassword() {
   var promptPassword = createPassword();
   passwordText.value = promptPassword;
   } else {
-    passwordText.value = "Please Try Again";
+    passwordText.value = "";
   }
 }
 
