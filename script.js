@@ -28,14 +28,14 @@ function generatePassword() {
       return preventdefault();
     }
 
-    if(confirm("Should the password contain Numeric characters? [123]")) { 
-      characterType = characterType.concat(numericCharacters);
+    if(confirm("Should the password contain LowerCase characters? [abc]")) { 
+      characterType = characterType.concat(lowerCharacters);
     }
     if(confirm("Should the password contain UpperCase characters? [ABC]")) { 
       characterType = characterType.concat(upperCharacters);
     }
-    if(confirm("Should the password contain LowerCase characters? [abc]")) { 
-      characterType = characterType.concat(lowerCharacters);
+    if(confirm("Should the password contain Numeric characters? [123]")) { 
+      characterType = characterType.concat(numericCharacters);
     }
     if(confirm("Should the password contain Special characters? [!@#]")) {
       characterType = characterType.concat(specialCharacters);
